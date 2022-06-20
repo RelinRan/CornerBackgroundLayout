@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="solid" format="color" />
+    <attr name="radius" format="dimension" />
+    <attr name="lackRadius" format="dimension" />
+    <attr name="leftTopLackRadius" format="dimension" />
+    <attr name="leftBottomLackRadius" format="dimension" />
+    <attr name="rightTopLackRadius" format="dimension" />
+    <attr name="rightBottomLackRadius" format="dimension" />
+    <declare-styleable name="CornerBackgroundLayout">
+        <attr name="solid" />
+        <attr name="radius" />
+        <attr name="lackRadius" />
+        <attr name="leftTopLackRadius" />
+        <attr name="leftBottomLackRadius" />
+        <attr name="rightTopLackRadius" />
+        <attr name="rightBottomLackRadius" />
+    </declare-styleable>
+</resources>
